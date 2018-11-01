@@ -8,7 +8,7 @@ For demo please <a traget="_blank" href="http://decoder.atspace.eu/media/">Click
 
 # ScreenShot
 
-<img src="https://raw.githubusercontent.com/Guley/media-manager/master/screen1.png">
-<img src="https://raw.githubusercontent.com/Guley/media-manager/master/screen2.png">
-<img src="https://raw.githubusercontent.com/Guley/media-manager/master/screen3.png">
-<img src="https://raw.githubusercontent.com/Guley/media-manager/master/screen4.png">
+<img src="https://github.com/Guley/ci-gallery-manager/blob/master/screen1.png">
+<img src="https://github.com/Guley/ci-gallery-manager/blob/master/screen2.png">
+<img src="https://github.com/Guley/ci-gallery-manager/blob/master/screen3.png">
+<img src="https://github.com/Guley/ci-gallery-manager/blob/master/screen4.png">
