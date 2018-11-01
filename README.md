@@ -5,6 +5,7 @@ Media gallery module using codeigniter
 
 # Demo
 For demo please <a traget="_blank" href="http://decoder.atspace.eu/media/">Click here</a>
+For database dump contact me on <a traget="_blank" href="mailto:gul2787@gmail.com">Here</a>
 
 # ScreenShot
 
