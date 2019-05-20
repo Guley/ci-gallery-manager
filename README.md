@@ -1,7 +1,5 @@
 # ci-gallery-manager
 Media gallery module using codeigniter
-<img src="https://raw.githubusercontent.com/Guley/media-manager/master/octocat.png" width="200">
-
 
 # Demo
 For demo please <a traget="_blank" href="http://decoder.atspace.eu/media/">Click here</a> <br />
